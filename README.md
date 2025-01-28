@@ -195,9 +195,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## 📧 **Contact**  
 
 Feel free to reach out for any queries or suggestions:  
-📧 **theashishgavade@example.com**  
+📧 **theashishgavade@gmail.com**  
 
 ---
 
 Enjoy managing presentations and ratings effortlessly! 💼✨
-```
