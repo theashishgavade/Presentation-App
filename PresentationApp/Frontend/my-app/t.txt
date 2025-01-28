@@ -1,0 +1,30 @@
+src/
+  components/
+      User/
+        RegisterPage.jsx
+        LoginPage.jsx
+        StudentDashboard.jsx
+        AdminDashboard.jsx
+      Presentation/
+        AssignPresentationPage.jsx
+        UpdatePresentationStatusPage.jsx
+        ChangeStatusPresentationPage.jsx
+      Rating/
+        RatePresentationPage.jsx
+      ChangeStatusUserPage.jsx
+  services/
+    api.js
+    EmailService.js
+    PresentationService.js
+    RatingService.js
+    ReportService.js
+    UserService.js
+  App.js
+  App.css
+  App.test.js
+  index.css
+  index.js
+  logo.svg
+  reportWebVitals.js
+  setupTest.js
+  
